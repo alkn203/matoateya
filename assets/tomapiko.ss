@@ -7,7 +7,7 @@
   },
   "animations": {
     "front": {
-      "frames": [6],
+      "frames": [7],
       "next": "front",
       "frequency": 4
     },
@@ -17,7 +17,7 @@
       "frequency": 4
     },
     "back": {
-      "frames": [9],
+      "frames": [10],
       "next": "back",
       "frequency": 4
     },
@@ -27,7 +27,7 @@
       "frequency": 4
     },
     "left": {
-      "frames": [12],
+      "frames": [13],
       "next": "left",
       "frequency": 4
     },
@@ -37,7 +37,7 @@
       "frequency": 4
     },
     "right": {
-      "frames": [15],
+      "frames": [16],
       "next": "right",
       "frequency": 4
     },

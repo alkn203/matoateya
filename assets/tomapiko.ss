@@ -45,6 +45,6 @@
       "frames": [15, 16, 17, 16],
       "next": "right_walk",
       "frequency": 4
-    },
+    }
   }
 }
